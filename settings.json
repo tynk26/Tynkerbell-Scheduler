@@ -1,0 +1,10 @@
+{
+  "api_key": "",
+  "model": "gpt-4o-mini",
+  "timezone": "KST",
+  "save_progress": true,
+  "daily_ai_reminders": true,
+  "reminder_interval_min": 120,
+  "auto_reroll_missed": true,
+  "cloud_backup_enabled": false
+}
