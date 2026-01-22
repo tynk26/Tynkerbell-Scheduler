@@ -41,10 +41,4 @@ python3 app.py
 A window titled “AI Scheduler — Personal Power Mode” opens.
 
 ================================================================================================================================================================================
-* This project is open source and free for you to use. If you like my app, and would like to support me & the love fund you are welcome to do so. Let me know if there are any issues or would like to collaborate **
 
-  
-- SUPPORT ME & LOVE FUND https://ko-fi.com/tynkerbell26_lovefund
-- SUPPORT ME & LOVE FUND https://buymeacoffee.com/tynkerbell26_lovefund
-- MY INSTAGRAM. FEEL FREE TO DM ME TO CONNECT WITH ME DIGITALLY OR IN-PERSON: https://www.instagram.com/tynkerbell26/
-- MY PERSONAL WEBPAGE: https://beacons.ai/tynkerbell26
